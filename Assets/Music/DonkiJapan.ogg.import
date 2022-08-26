@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/DonkiJapan.ogg-f60f6299ad4e4d2d66f78d1e9b4459d1.oggstr"
+
+[deps]
+
+source_file="res://Assets/Music/DonkiJapan.ogg"
+dest_files=[ "res://.import/DonkiJapan.ogg-f60f6299ad4e4d2d66f78d1e9b4459d1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

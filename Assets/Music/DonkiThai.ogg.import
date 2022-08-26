@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/DonkiThai.ogg-b09410972ea4d72ba87086b88c63497b.oggstr"
+
+[deps]
+
+source_file="res://Assets/Music/DonkiThai.ogg"
+dest_files=[ "res://.import/DonkiThai.ogg-b09410972ea4d72ba87086b88c63497b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
